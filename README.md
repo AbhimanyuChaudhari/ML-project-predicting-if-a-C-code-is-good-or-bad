@@ -59,7 +59,7 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ## Support and Contact
 
-If you have any questions or need assistance, feel free to reach out to the project maintainer at [maintainer@example.com](mailto:maintainer@example.com).
+If you have any questions or need assistance, feel free to reach out to the project maintainer at [abhimanyuchaudhari16@gmail.com](mailto:abhimanyuchaudhari16@gmail.com).
 
 Enjoy predicting code quality with neural networks!
 
